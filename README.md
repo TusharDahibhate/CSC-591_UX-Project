@@ -14,7 +14,6 @@ The repository contains all the resources relevant to the project.
 
 [Evaluate phase](https://github.com/TusharDahibhate/CSC-591_UX-Project/blob/master/5-Evaluate.pdf)
 
-<hr>
 
 ## Team
 
