@@ -18,7 +18,7 @@ Secmation has developed a Manufacturing Execution System called SAMM to manage, 
 
 [Presentation](https://github.com/TusharDahibhate/CSC-591_UX-Project/blob/master/Presentation.pdf)
 
-Prototype [Live 1](https://projects.invisionapp.com/share/SGX16C64RJX#/screens) | [Live 2](https://xd.adobe.com/view/d0284e95-034b-4443-46b3-3f1f66f38cc7-a619/?fullscreen&hints=off)| [Doc](https://drive.google.com/file/d/1nI-qRHqilD9kQfAwhF8nAudesd39DHBT/view)
+Prototype [Live 1](https://projects.invisionapp.com/share/SGX16C64RJX#/screens) | [Live 2](https://xd.adobe.com/view/d0284e95-034b-4443-46b3-3f1f66f38cc7-a619/?fullscreen&hints=off) | [Doc](https://drive.google.com/file/d/1nI-qRHqilD9kQfAwhF8nAudesd39DHBT/view)
 
 ## Stage Reports
 
